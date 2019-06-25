@@ -1,0 +1,36 @@
+.wrap{
+    width:650;
+    margin-top:50px;
+    text-align: center;
+    font-family: monospace;
+    background-color: red;
+    background-image: url(../StackRoute/coach-3206326_960_720.png);
+}
+li{
+    display:inline;
+    padding-right: 10px;
+    
+}
+ul a{
+    text-decoration:none;
+}
+ul a:hover{
+    text-decoration: underline;
+}
+.sign{
+    background-color:burlywood;
+}
+.home{
+    display:inline;
+    text-decoration: none;
+    padding-right: 10px;
+    
+}
+form li{
+    margin-bottom: 20px;
+    width:400px;
+}
+aside{
+    float:right;
+    background-color: blanchedalmond;
+}

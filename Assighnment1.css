@@ -1,0 +1,15 @@
+.wrap{
+    background-color: blue;
+    height: 80;
+    margin:auto;
+
+}
+.side{
+    float:right;
+}
+h2{
+    width:500;
+}
+.new{
+    float:right;
+}
